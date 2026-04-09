@@ -1,0 +1,1 @@
+ProyectoCF es una aplicación web desarrollada en Python utilizando Flask que permite a los usuarios calcular su Índice de Masa Corporal (IMC) a partir de su peso y estatura. El sistema proporciona una clasificación del resultado y recomendaciones básicas de salud.
