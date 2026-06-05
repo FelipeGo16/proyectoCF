@@ -1,0 +1,31 @@
+# Entornos virtuales 
+venv/
+.venv/
+env/
+ENV/
+bin/
+lib/
+
+# Caché de Python
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Git
+.git
+.gitignore
+
+# Configuración de editores
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Archivos de sistema y logs
+.DS_Store
+*.log
+docker-compose.override.yml
+
+# Datos sensibles
+.env
